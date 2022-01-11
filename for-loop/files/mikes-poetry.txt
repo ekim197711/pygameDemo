@@ -1,0 +1,4 @@
+Roses are red
+Other flowers are other colors
+Coding is fun
+Also python

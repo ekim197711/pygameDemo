@@ -57,11 +57,9 @@ def run_game():
             if event.type == pygame.KEYDOWN:
                 if event.key == pygame.K_LEFT:
                     print("left")
-                    # gameobjects["cousin"].move(-1, 0)
 
                 if event.key == pygame.K_RIGHT:
                     print("right")
-                    # gameobjects["cousin"].move(1, 0)
 
             if event.type == pygame.QUIT:
                 running = False
